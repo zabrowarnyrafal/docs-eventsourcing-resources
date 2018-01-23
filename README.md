@@ -3,8 +3,8 @@
 > List of useful tutorials, libraries and software regarding cqrs, event sourcing, event-driven system, event-driven architecture.
 
 ## Table of Contents
-- [github repositories] (#Github repositories)
-- [videos] (#Videos)
+- [Github repositories](#github-repositories)
+- [Videos](#videos)
 
 ## Github repositories
 
