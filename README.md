@@ -13,5 +13,6 @@
 * https://github.com/NEventStore/NEventStore - c#, not updated
 * https://github.com/mfelicio/NDomain - c#, fluent and async api, azure bus, redis message broker, sql eventstore
 * https://github.com/Elders/Cronus - c#, microservices, cassandra eventstore, sql eventstore, protobuf, cassandra projections, elasticsearch projections, rabbitmq messaging
+* https://github.com/eventflow/EventFlow - aggregates, async api, configurable, SQL eventstore, GES eventstore, InMemory eventstore, sqlserver projections, elasticsearch projections, snapshotting, sagas aka process managers, scheduling, policies
 
 ## Videos
