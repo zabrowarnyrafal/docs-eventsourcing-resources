@@ -28,3 +28,4 @@
 ## Articles
 
 ## Videos
+* [GES as read model](https://skillsmatter.com/skillscasts/3836-event-store-as-a-read-model) - how GES projections is working
