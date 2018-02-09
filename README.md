@@ -30,4 +30,5 @@
 * [Task based UI](http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-agh/) - Greg young explanation of UI patter suitable for ES or distributed storage 
 
 ## Videos
-* [GES as read model](https://skillsmatter.com/skillscasts/3836-event-store-as-a-read-model) - how GES projections is working
+* [EventStore as read model](https://skillsmatter.com/skillscasts/3836-event-store-as-a-read-model) - how GES projections is working
+* [A deep look into the EventStore](https://vimeo.com/53153270) - GES internals by greg Young
