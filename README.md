@@ -18,10 +18,11 @@
 * https://github.com/eventflow/EventFlow - aggregates, async api, configurable, SQL eventstore, GES eventstore, InMemory eventstore, sqlserver projections, elasticsearch projections, snapshotting, sagas aka process managers, scheduling, policies
 * https://github.com/gautema/CQRSlite - net core, uow and repository of aggregates, snapshotting, pluggable, missing implementations
 * https://github.com/commanded/commanded - elixir cqrs, Pg eventstore, GES eventstore, sagas, projections, scheduling, missing snapshotting
-* https://github.com/jonsequitur/Its.Cqrs - ddd, Azure ready, SQL eventstore, scheduling, snapshotting, authorization layer, projections, Microsoft workers made it
+* [MS Its.Cqrs](https://github.com/jonsequitur/Its.Cqrs) - ddd, Azure ready, SQL eventstore, scheduling, snapshotting, authorization layer, projections, Microsoft workers made it
 * https://github.com/Chinchilla-Software-Com/CQRS - based on CQRSlite, Azure ready, uow and repository of aggregates, GES eventstore, ASB support, Azure CosmosDb support, MongoDb projections, Akka.net support, authentication layer, sagas, commercial support
-* https://github.com/d60/Cirqus - ddd, EF projections, MongoDb projections, MongoDb eventstore, SQL eventstore, snapshotting, caching
-* https://github.com/BrighterCommand - ports and adapters, Pg eventstore, SQLServer eventstore, SQLite eventstore, mySQL eventstore, ASB support, Kafka support, Redis queues support, RabbitMQ support, policies
+* [Cirqus](https://github.com/d60/Cirqus) - ddd, EF projections, MongoDb projections, MongoDb eventstore, SQL eventstore, snapshotting, caching
+* [BrighterCommand](https://github.com/) - ports and adapters, Pg eventstore, SQLServer eventstore, SQLite eventstore, mySQL eventstore, ASB support, Kafka support, Redis queues support, RabbitMQ support, policies
+* [LiquidProjections](https://github.com/liquidprojections/LiquidProjections) - projector of events, RavenDb projections,NH projections, event types mapper
 
 ## Samples
 
