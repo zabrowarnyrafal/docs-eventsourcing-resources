@@ -23,6 +23,7 @@
 * [Cirqus](https://github.com/d60/Cirqus) - ddd, EF projections, MongoDb projections, MongoDb eventstore, SQL eventstore, snapshotting, caching
 * [BrighterCommand/Paramore](https://github.com/BrighterCommand) - ports and adapters, Pg eventstore, SQLServer eventstore, SQLite eventstore, MySQL eventstore, ASB support, Kafka support, Redis queues support, RabbitMQ support, policies
 * [LiquidProjections](https://github.com/liquidprojections/LiquidProjections) - projector of events, RavenDb projections,NH projections, event types mapper
+* [Streamstone](https://github.com/yevhen/Streamstone) - azure event sourcing
 
 ## Samples
 
